@@ -2,7 +2,7 @@
 title: "Reproducible Research"
 author: "Aleksandr Yakovlev"
 date: "17 12 2019"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
